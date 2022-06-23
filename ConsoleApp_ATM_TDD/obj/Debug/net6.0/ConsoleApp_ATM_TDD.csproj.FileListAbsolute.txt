@@ -1,0 +1,15 @@
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\bin\Debug\net6.0\ConsoleApp_ATM_TDD.exe
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\bin\Debug\net6.0\ConsoleApp_ATM_TDD.deps.json
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\bin\Debug\net6.0\ConsoleApp_ATM_TDD.runtimeconfig.json
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\bin\Debug\net6.0\ConsoleApp_ATM_TDD.dll
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\bin\Debug\net6.0\ConsoleApp_ATM_TDD.pdb
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.csproj.AssemblyReference.cache
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.AssemblyInfoInputs.cache
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.AssemblyInfo.cs
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.csproj.CoreCompileInputs.cache
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.dll
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\refint\ConsoleApp_ATM_TDD.dll
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.pdb
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ConsoleApp_ATM_TDD.genruntimeconfig.cache
+C:\ZBC Data-Kommunikation\H2\Programmeringsmetodik\ConsoleApp_ATM_TDD\obj\Debug\net6.0\ref\ConsoleApp_ATM_TDD.dll
